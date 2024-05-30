@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **PHP,Laravel**
 
+- 💻 I have an 3 Month experience of **Django**
+
+- 💻 I have an 6 Month experience of **Laravel Yet**
+
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **noor.gori108@gmail.com**
 
-<br>
+
 <p align="left">
 </p>
 
@@ -23,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noor-gori&show_icons=true&locale=en" alt="noor-gori" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor-gori&" alt="noor-gori" /></p>
-
